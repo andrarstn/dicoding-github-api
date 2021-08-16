@@ -1,0 +1,15 @@
+jumbo-tron {
+  display: block;
+  height: 300px;
+  width: 100%;
+  background-color: #0d1117;
+  color: white;
+}
+
+list-users {
+  display: block;
+}
+
+item-user {
+  display: flex;
+}
